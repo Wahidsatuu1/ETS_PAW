@@ -8,6 +8,16 @@
 
 Project ini merupakan aplikasi web sederhana untuk mengelola pendaftaran mahasiswa baru di Universitas 17 Agustus 1945 Surabaya (UNTAG Surabaya) tahun 2026. Aplikasi ini dibuat dengan PHP native dan MySQL untuk menangani proses pengisian formulir, penyimpanan data, tampilan daftar pendaftar, serta edit dan hapus data.
 
+## Preview Project
+
+<p align="center">
+  <img src="images/untag_2026.jpg" alt="Preview kampus UNTAG Surabaya" width="800" />
+</p>
+
+<p align="center">
+  <img src="images/logo_untag.png" alt="Logo UNTAG Surabaya" width="220" />
+</p>
+
 ## Fitur Utama
 
 - Halaman landing page resmi PMB 2026
